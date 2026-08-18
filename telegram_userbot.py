@@ -33,9 +33,9 @@ from telethon import TelegramClient, events
 # Configuration — get these from https://my.telegram.org
 # (log in with your phone number -> API development tools -> create an app)
 # ---------------------------------------------------------------------------
-API_ID = 31133428
+API_ID = 
   # Replace with your numeric API ID
-API_HASH = "026578a57b7a99699a4d0ff47d35de76"
+API_HASH = ""
 
 CPP_FILE = "test.cpp"
 MAX_RANGE = 5000
